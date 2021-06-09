@@ -1,0 +1,5 @@
+image: mongo-express
+server: mongodb
+adminPassword:
+adminUsername: root
+nodePort: 30081
